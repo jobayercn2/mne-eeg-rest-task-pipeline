@@ -1,4 +1,4 @@
-#EEG Rest–Task Analysis Pipeline
+# EEG Rest–Task Analysis Pipeline
 
 A reproducible computational EEG analysis pipeline for resting-state and RDK visual motion task data using MNE-Python, spectral feature extraction, aperiodic parameterization, exploratory statistics, and a machine-learning workflow demonstration.
 
