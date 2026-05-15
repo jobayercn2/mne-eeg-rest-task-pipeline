@@ -24,10 +24,10 @@ This repository is intended to demonstrate the computational workflow, preproces
 
 To reproduce the workflow with appropriate permissions, raw data should be placed locally following the expected data structure described below.
 
-## Expected Local Data Structure
+## Repository Structure
 
-eeg-rest-task-analysis-pipeline/
-│
+```text
+mne-eeg-rest-task-pipeline/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -55,3 +55,4 @@ eeg-rest-task-analysis-pipeline/
 │
 └── figures/
     └── pipeline_overview.png
+```
